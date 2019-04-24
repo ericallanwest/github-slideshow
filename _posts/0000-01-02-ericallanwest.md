@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+A penny saved is a penny earned.
 Use the left arrow to go back!
